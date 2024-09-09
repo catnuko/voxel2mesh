@@ -34,3 +34,4 @@ int main(int argc, char **argv)
     return simplify_impl(raw_file_path, width, height, depth, reduceFraction, export_path, isolevel, onlyLargest, fillBubbles, postSmoothF, verbose);
 }
 ```
+前端参考`voxel2mesh/voxel2mesh.vue`文件
